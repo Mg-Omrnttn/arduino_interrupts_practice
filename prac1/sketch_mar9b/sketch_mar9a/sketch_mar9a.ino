@@ -1,5 +1,6 @@
 // In this code, interrupts in INT0 and INT1 only
 // but other pins can be used for interrupts as well. I will do it later.
+// setting after philips account
 
 const int ledPin = 13;  // LED connected to pin 13
 
